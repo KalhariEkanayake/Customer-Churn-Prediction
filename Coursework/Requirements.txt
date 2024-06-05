@@ -1,0 +1,8 @@
+You need an installation of Python, plus the following libraries:
+
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn
+keras
